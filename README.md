@@ -1,2 +1,2 @@
 # PasswordGenerator
-a python project
+a python project for generating strong passwords
